@@ -44,7 +44,6 @@ img {
 }
 
 .square {
-
     fill: #52BEAC;
     stroke: #002b33;
     stroke-width: 0px;
@@ -145,3 +144,4 @@ img {
     60%, 99.9% { width: 100px; height: 100px; transform: translate(0, -100px); }
     100%    { width: 100px; height: 100px; transform: translate(0, 0); }
 }
+
